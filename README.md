@@ -34,7 +34,3 @@ Client Url
  npm install
  npm start
 ```
-### Test
-```bash
- npm test
-```
