@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "id":1,
+      "name": "Anna Liebman",
+      "phone": "+27 543543 665 ",
+      "mail": "anna.lieb@mail.com",
+      "policyNo": "00004215125 | 921521512512"
+    },
+    {
+      "id":2,
+      "name": "Ann Summer",
+      "phone": "+27 42153 665 ",
+      "mail": "anna.summer@mail.com",
+      "policyNo": "005325215125 | 9215276772"
+    },
+    {
+      "id":3,
+      "name": "Anabelle Samuel",
+      "phone": "+56 845443 665 ",
+      "mail": "anna.samuel@mail.com",
+      "policyNo": "67654215125 | 2151521512512"
+    }
+  ]
+}

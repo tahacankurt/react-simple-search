@@ -1,0 +1,12 @@
+{
+  "name": "frontend-assesment-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "lodash.debounce": "^4.0.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
