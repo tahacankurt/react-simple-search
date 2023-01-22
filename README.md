@@ -1,4 +1,4 @@
-# Front-end Assignment 
+# Simple Search 
 
 This project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Installation
